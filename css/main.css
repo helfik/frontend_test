@@ -172,6 +172,8 @@ textarea {
 .header_back {
   background-image: url('../img/header_background.png');
   height: 306px;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .no-padding {
@@ -349,6 +351,8 @@ textarea.form-control.form_input {
   background-image: url('../img/info_background.png');
   min-height: 400px;
   padding: 68px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .info_inner {
